@@ -233,3 +233,18 @@ a {
   padding: 20px;
 }
 
+footer {
+  width: 100vw;
+  height: 60px;
+  background-color: rgb(26, 26, 26);
+}
+
+.footerText {
+  color: white;
+  text-align: center;
+  height: 100%;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
