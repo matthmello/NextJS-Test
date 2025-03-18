@@ -115,13 +115,7 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="thirdPageContainer">
-        <div className="page03">
-            <div className="titleThirdPage">
-              <h1 className="titleThirdPageGray">CONHEÇA NOSSOS <span className="titleThirdPageRed">COMBOS EXCLUSIVOS</span></h1>
-            </div>
-        </div>
-      </div>
+      
       
       <div className="lastPageContainer">
 

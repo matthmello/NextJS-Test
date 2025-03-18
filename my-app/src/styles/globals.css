@@ -152,11 +152,6 @@ a {
 }
 
 
-.page03 {
-  margin: 0px 200px;
-  height: 1000px;
-}
-
 .secondPageContainer {
   width: 100vw;
   height: 1080px;
@@ -167,14 +162,7 @@ a {
   
 }
 
-.thirdPageContainer {
-  width: 100vw;
-  height: 1080px;
-  margin: auto;
-  margin-top: 40px;
-  position: relative;
-  background-image: url(../../public/main3.webp);
-}
+
 
 .titleThirdPageGray {
   color: rgb(51, 50, 50);
