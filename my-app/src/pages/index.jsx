@@ -127,7 +127,7 @@ export default function Home() {
         <div className="footerText">
           <p>Instituto do Sabor – Escola de Gastronomia. © Todos os direitos reservados. Desenvolvido por Vertical Marketing</p>
         </div> 
-      </footer>
+      </footer> 
 
     </>
   );
