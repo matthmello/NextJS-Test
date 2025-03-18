@@ -20,6 +20,11 @@ body {
   font-weight: 400;
   font-size: 28px;
 }
+.littleGrayLastPage {
+  color: rgb(51, 50, 50);
+  font-weight: 400;
+  font-size: 20px;
+}
 
 .bigGray {
   color: rgb(51, 50, 50);
@@ -219,6 +224,28 @@ a {
   flex-direction: column;
   text-align: start;
   float: right;
+}
+
+.lastPageContainer {
+  margin: 0px 200px;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.lastPage {
+  display: flex;
+  justify-content: center;
+  flex-direction: column; 
+}
+
+.lastPageMap {
+ 
+  width: 950px;
+  height: 400px;
+  background-image: url(../../public/map.png);
+  margin: 100px 0;
 }
 
 footer {

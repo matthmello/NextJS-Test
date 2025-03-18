@@ -123,6 +123,40 @@ export default function Home() {
         </div>
       </div>
       
+      <div className="lastPageContainer">
+
+        <div className="lastPage">
+          <div>
+            <h3 className="littleGray">ONDE ESTAMOS</h3>
+          </div>
+          <div>
+            <h3 className="littleGray"><b className="strong-hightlight">LOCALIZADOS?</b></h3>
+            
+          </div>
+
+            <div>
+              <p className="littleGrayLastPage">Nossa empresa está estrategicamente</p>
+            </div>
+            <div>
+              <p className="littleGrayLastPage">localizada na <b className="strong-hightlight">R.Haddock Lobo, 170-Rio</b></p>
+            </div>
+            <div>
+              <p className="littleGrayLastPage"><b className="strong-hightlight">Comprido,</b> oferecendo fácil acesso e</p>
+            </div>
+            <div>
+              <p className="littleGrayLastPage">comodidade para atender nossos clientes</p>
+            </div>
+            <div>
+              <p className="littleGrayLastPage">com excelência e proximidade.</p>
+            </div>
+            
+        </div>
+
+        <div className="lastPageMap">            
+        </div>
+
+      </div>
+
       <footer>
         <div className="footerText">
           <p>Instituto do Sabor – Escola de Gastronomia. © Todos os direitos reservados. Desenvolvido por Vertical Marketing</p>
