@@ -240,6 +240,10 @@ a {
   flex-direction: column; 
 }
 
+.lastPageTitle {
+  margin: 20px 0;
+}
+
 .lastPageMap {
  
   width: 950px;

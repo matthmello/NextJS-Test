@@ -126,12 +126,14 @@ export default function Home() {
       <div className="lastPageContainer">
 
         <div className="lastPage">
-          <div>
-            <h3 className="littleGray">ONDE ESTAMOS</h3>
-          </div>
-          <div>
-            <h3 className="littleGray"><b className="strong-hightlight">LOCALIZADOS?</b></h3>
-            
+          <div className="lastPageTitle">
+            <div>
+              <h3 className="littleGray">ONDE ESTAMOS</h3>
+            </div>
+            <div>
+              <h3 className="littleGray"><b className="strong-hightlight">LOCALIZADOS?</b></h3>
+              
+            </div>
           </div>
 
             <div>
